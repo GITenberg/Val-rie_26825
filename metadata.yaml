@@ -1,0 +1,32 @@
+_repo: Val-rie_26825
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krüdener, Barbara Juliane, Freifrau von
+    aliases:
+    - Krudener, Barbara Juliane, Freifrau von
+    - Krüdener, Barbara Juliane von Vietinghoff, Freifrau von
+    birthdate: 1764
+    deathdate: 1824
+    gutenberg_agent_id: '32260'
+    url: http://www.gutenberg.org/2009/agents/32260
+    wikipedia: http://en.wikipedia.org/wiki/Barbara_Juliana,_Baroness_von_Kr%C3%BCdener
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26825'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Social life and customs -- 18th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Italy -- Court and courtiers -- Fiction'
+title: Valérie
+url: http://www.gutenberg.org/ebooks/26825
