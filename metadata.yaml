@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32260
     wikipedia: http://en.wikipedia.org/wiki/Barbara_Juliana,_Baroness_von_Kr%C3%BCdener
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26825#Val-rie
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-10-07'
 gutenberg_type: Text
